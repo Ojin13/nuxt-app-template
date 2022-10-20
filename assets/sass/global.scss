@@ -1,0 +1,21 @@
+@import "@/assets/sass/variables";
+@import "@/assets/sass/normalize.scss";
+@import "@/assets/sass/google/firebaseUI.scss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+
+body{
+    background-color: $base-color;
+    padding: 20px;
+}
+
+
+*{
+    font-family: 'Outfit', sans-serif;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color: $text-color;
+}

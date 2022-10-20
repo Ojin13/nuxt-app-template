@@ -1,0 +1,6 @@
+{
+  "appId": "com.boilerplate.app",
+  "appName": "boilerplate",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
